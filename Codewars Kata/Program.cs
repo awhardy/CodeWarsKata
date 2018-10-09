@@ -6,7 +6,9 @@ namespace Codewars_Kata
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            KataSolver a = new KataSolver();
+
+            Console.ReadLine();
         }
     }
 }
